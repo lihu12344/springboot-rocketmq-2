@@ -1,0 +1,4 @@
+rocketmq:
+  name-server: 172.18.0.91:9876
+  producer:
+    group: producerGroup
